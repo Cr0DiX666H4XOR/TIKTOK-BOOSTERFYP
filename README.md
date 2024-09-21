@@ -10,7 +10,6 @@ Tiktok Booster Viewer For FYP Tiktok UNLIMINITED, Access Viewer Booster Viral 20
 2) Install Termux Nethunter No Rootless (Without Root)
 Command Follow Install Click One!
 ```
-```
 $ setup-storage-Storage
 
 $ pkg install wget
@@ -24,6 +23,7 @@ $ ./install-nethunter-termux
 Installations Full or Nano(Minimal)
 ```
 
+```
 Next Command => Log In Kali Nethunter Rootless
 $ nethunter
 
@@ -50,6 +50,8 @@ $ python3 -m pip install -r requiremenst.txt
 $ python3 main.py
 
 Next Older Error Dependencies Installations Fatal Error, Please Read Modules Name
+
+```
 
 ## Installations For Windows 7/8/10/11
 ```
