@@ -10,6 +10,7 @@ Tiktok Booster Viewer For FYP Tiktok UNLIMINITED, Access Viewer Booster Viral 20
 2) Install Termux Nethunter No Rootless (Without Root)
 Command Follow Install Click One!
 ```
+```
 $ setup-storage-Storage
 
 $ pkg install wget
