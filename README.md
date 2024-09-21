@@ -21,7 +21,7 @@ $ chmod +x install-nethunter-termux
 $ ./install-nethunter-termux
 
 Installations Full or Nano(Minimal)
-
+```
 
 Next Command => Log In Kali Nethunter Rootless
 $ nethunter
